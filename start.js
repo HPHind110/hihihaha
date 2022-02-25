@@ -1,1 +1,1 @@
-console.log('Oi dit me cuoc doi\nDit con me vai lon!');
+console.log('Bot lao di thang loz!');
